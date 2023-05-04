@@ -63,7 +63,8 @@ group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 
-  gem 'dotenv-rails', groups: [:development, :test]
+  # MySQL database adapter for Rails 
+  gem 'mysql2'
 end
 
 group :test do

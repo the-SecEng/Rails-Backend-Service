@@ -1,0 +1,34 @@
+[    
+  {
+      "id": "1",
+      "proceso": {
+        "nombre": "Reporte de gastos",
+        "creado_por_empleado": "",
+        "ppp_cat_tipos_procesos_uuid": "",
+        "es_publico": "",
+        "descripcion": "Proceso para reportar gastos semanales y responsable o gerente de area. Asegurar que cada paso es realizado conforme a este proceso. Este proceso puede tener sanciones de la política de sanciones.",
+        "codigo": "PR-VT-0025-01R1",
+        "empleado_mentor": "Ernesto Aguirre",
+        "tiempo_ejecucion_nec": "",
+        "companies_uuid": "",
+        "url_imagen": "",
+        "status_autorizacion": ""
+      }
+    },
+    {
+      "id": "2",
+      "proceso": {
+        "nombre": "Campaña de Ventas",
+        "creado_por_empleado": "",
+        "ppp_cat_tipos_procesos_uuid": "",
+        "es_publico": "",
+        "descripcion": "Proceso para crear una nueva campaña de ventas. Asegurar que cada paso es realizado conforme a este proceso. Este proceso puede tener sanciones de la política de sanciones.",
+        "codigo": "PR-VT-0025-01R2",
+        "empleado_mentor": "Ernesto Aguirre",
+        "tiempo_ejecucion_nec": "",
+        "companies_uuid": "",
+        "url_imagen": "",
+        "status_autorizacion": ""
+      }
+    }
+]
